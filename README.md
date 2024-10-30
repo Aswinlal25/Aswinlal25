@@ -7,7 +7,7 @@
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswinlal25&label=Profile%20views&color=0e75b6&style=flat" alt="aswinlal25" /> </p>
 
-- 🌱 I’m currently developing a dating app with a Golang backend,
+- 🌱 I’m currently Working as a Flutter Developer in Teqbae,
 - I specialize in crafting sleek and user-friendly mobile interfaces. Focused on UI/UX design, I bring creativity and technical expertise to every project.
 - 💬 Ask me about **Flutter**
 
