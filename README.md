@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="1100" height="320" >
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="1100" height="280" >
 <h1 align="center">Hi 👋, I'm Aswin lal</h1>
 
 <h3 align="center">A passionate flutter developer from India</h3>
